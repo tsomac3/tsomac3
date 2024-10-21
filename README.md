@@ -9,11 +9,11 @@
 <details>
   <summary>My Favourite Programming Languages</summary>
 
-  | Rank | Languages |
-  |------|-----------|
-  |   1  | C#        |
-  |   2  | JavaScript|
-  |   3  | Python    |
+  | Rank  | Languages  |
+  |:-----:|------------|
+  |   1   | C#         |
+  |   2   | JavaScript |
+  |   3   | Python     |
   
 </details>
 
