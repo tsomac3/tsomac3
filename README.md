@@ -28,6 +28,16 @@
 
 ---
 
+### Snippets of current coding projects
+
+| Project Name   | Description                |
+|:---------------|:---------------------------|
+| Fan Page       | Fun page about funny cats  |
+| Periodic Table | Shows a Period Table       |
+| Tip Calculator | Spreads your bill, based on the amount of people |
+
+---
+
 > Thanks for viewing my profile 🎉
 
 <!--
