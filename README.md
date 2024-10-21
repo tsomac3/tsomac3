@@ -9,7 +9,7 @@
 - 🔭 Currently learning HTML, CSS & JavaScript
 - 🌱 Working on other projects using Unity3D
 ---
-### ⌨️ My Favourites Programming Languages ⌨️
+### ⌨️ My Top 3 Programming Languages ⌨️
 <details>
   <summary>Click Here! To Find Out. 👍🏾</summary>
 
