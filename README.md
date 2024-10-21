@@ -28,12 +28,12 @@
 
 ---
 
-### Snippets of current coding projects
+### ⌨️ Snippets of current coding projects ⌨️
 
 | Project Name   | Description                |
 |:---------------|:---------------------------|
 | Fan Page       | Fun page about funny cats  |
-| Periodic Table | Shows a Period Table       |
+| Periodic Table | Shows a Periodic Table       |
 | Tip Calculator | Spreads your bill, based on the amount of people |
 
 ---
