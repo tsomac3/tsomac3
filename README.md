@@ -9,9 +9,9 @@
 - 🔭 Currently learning HTML, CSS & JavaScript
 - 🌱 Working on other projects using Unity3D
 ---
-###
+### ⌨️ My Favourites Programming Languages ⌨️
 <details>
-  <summary>My Favourite Programming Languages 👍🏾</summary>
+  <summary>Click Here! To Find Out. 👍🏾</summary>
 
   | Rank  | Languages  |
   |:-----:|------------|
@@ -23,19 +23,19 @@
 
 ---
 
-### ☎️ Contact Details ☎️
-- 📫 Email : phillip.vidal@googlemail.com
-- 📫 Linked In : https://www.linkedin.com/in/phillip-vidal-45359136/
+### ⌨️ My Most Recent Coding Projects ⌨️
+
+| Project Name | Description | Language(s) |
+|:-------------|:------------|:------------|
+| Fan Page | Fun page about funny cats | HTML, CSS |
+| Periodic Table | Shows a Periodic Table | HTML, CSS |
+| Tip Calculator | Spreads your bill, based on the amount of people | HTML, CSS |
 
 ---
 
-### ⌨️ Snippets of current coding projects ⌨️
-
-| Project Name   | Description                |
-|:---------------|:---------------------------|
-| Fan Page       | Fun page about funny cats  |
-| Periodic Table | Shows a Periodic Table       |
-| Tip Calculator | Spreads your bill, based on the amount of people |
+### ☎️ Contact Details ☎️
+- 📫 Email : phillip.vidal@googlemail.com
+- 📫 Linked In : https://www.linkedin.com/in/phillip-vidal-45359136/
 
 ---
 
