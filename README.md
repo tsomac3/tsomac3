@@ -6,7 +6,7 @@
 </picture>
 
 ### ⚒️ What I'm Currently Doing ⚒️
-- 🔭 Currently learning HTML, CSS & JavaScript
+- 🔭 Currently learning HTML, CSS, JavaScript & MongoDB
 - 🌱 Working on other projects using Unity3D
 ---
 ### ⌨️ My Top 3 Programming Languages ⌨️
@@ -29,7 +29,9 @@
 |:-------------|:------------|:------------|
 | Fan Page | Fun page about funny cats | HTML, CSS |
 | Periodic Table | Shows a Periodic Table | HTML, CSS |
-| Tip Calculator | Spreads your bill, based on the amount of people | HTML, CSS |
+| Tip Calculator | Spreads your bill, based on the amount of people | HTML, CSS, Javascript |
+| Media Player | Plays local files, has custom controls and allows full-screen switching | HTML, CSS, Javascript |
+| Weather App | Displays the weather, in selectable countries and in a fun way. Contains zoomable tiles for people with poor eye sight and changing backgrounds for different weather conditions | HTML, CSS, Javascript |
 | Audio Visualiser | Creates Real-Time Visual Effects, from Audio and Video files | C# (Unity3D) |
 
 ---
